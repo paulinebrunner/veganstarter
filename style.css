@@ -1,0 +1,47 @@
+body {
+
+    line-height: 1.5;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 300;
+    color: #555;
+}
+
+
+main {
+    margin: 0 auto;
+    max-width: 60em;
+    margin: 0 auto;
+    max-width: 60em;
+    padding: 2em 2em;
+}
+
+header {
+    background-color: #263d36;
+    background-image: url("header.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    line-height: 1.2;
+    padding: 10vw 2em;
+    text-align: center;
+
+}
+
+h2 {
+    padding-top: 2em;
+}
+
+h1,
+h2 {
+    color: #D91C6A
+}
+
+a,
+strong {
+    color: #3BFF44;
+}
+
+img {
+    border: 1px solid grey;
+}
